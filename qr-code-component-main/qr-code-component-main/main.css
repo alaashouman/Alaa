@@ -1,0 +1,10 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+.s {
+  top: 70px;
+  width: auto;
+  margin: auto;
+  padding: 15px;
+  border-radius: 30px;
+}
